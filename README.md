@@ -2,6 +2,9 @@
 
 An AI-powered software license management and cost optimization platform that helps organizations make data-driven decisions about software license renewals, cost optimization, and resource allocation.
 
+# DEMO AND EXPLANATION
+https://www.loom.com/share/4519808aac3e45e1b2371a0505905942?sid=327a2d84-8383-4eb9-95fb-adddd643ed19
+
 ## Overview
 
 This project is a prototype of an enterprise-grade AI system that was originally developed at internal org for managing software license costs and utilization. The system analyzes historical usage data, predicts future resource needs, and provides intelligent recommendations for license renewals and cost optimization.
