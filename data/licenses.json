@@ -1,0 +1,126 @@
+[
+  {
+    "id": "workato_001",
+    "name": "Workato Integration Platform",
+    "vendor": "Workato",
+    "billing_type": "per_task",
+    "cost_per_unit": 0.15,
+    "total_license_cost": 50000.0,
+    "license_period_months": 12,
+    "start_date": "2024-01-01",
+    "end_date": "2024-12-31",
+    "status": "active",
+    "max_units": 1000000,
+    "current_units": 750000,
+    "auto_renewal": true,
+    "contract_details": {
+      "tier": "enterprise",
+      "support_level": "premium"
+    }
+  },
+  {
+    "id": "slack_001",
+    "name": "Slack Business+",
+    "vendor": "Slack",
+    "billing_type": "per_user",
+    "cost_per_unit": 12.5,
+    "total_license_cost": 15000.0,
+    "license_period_months": 12,
+    "start_date": "2024-01-01",
+    "end_date": "2024-12-31",
+    "status": "active",
+    "max_units": 1200,
+    "current_units": 950,
+    "auto_renewal": true,
+    "contract_details": {
+      "plan": "business_plus",
+      "features": [
+        "sso",
+        "compliance"
+      ]
+    }
+  },
+  {
+    "id": "aws_001",
+    "name": "AWS Enterprise Support",
+    "vendor": "Amazon Web Services",
+    "billing_type": "tiered",
+    "cost_per_unit": 0.0,
+    "total_license_cost": 25000.0,
+    "license_period_months": 12,
+    "start_date": "2024-01-01",
+    "end_date": "2024-12-31",
+    "status": "active",
+    "max_units": null,
+    "current_units": null,
+    "auto_renewal": true,
+    "contract_details": {
+      "support_level": "enterprise",
+      "response_time": "15_minutes"
+    }
+  },
+  {
+    "id": "salesforce_001",
+    "name": "Salesforce Enterprise",
+    "vendor": "Salesforce",
+    "billing_type": "per_user",
+    "cost_per_unit": 150.0,
+    "total_license_cost": 180000.0,
+    "license_period_months": 12,
+    "start_date": "2024-01-01",
+    "end_date": "2024-12-31",
+    "status": "active",
+    "max_units": 1200,
+    "current_units": 800,
+    "auto_renewal": true,
+    "contract_details": {
+      "edition": "enterprise",
+      "add_ons": [
+        "marketing_cloud"
+      ]
+    }
+  },
+  {
+    "id": "zoom_001",
+    "name": "Zoom Pro",
+    "vendor": "Zoom",
+    "billing_type": "per_user",
+    "cost_per_unit": 14.99,
+    "total_license_cost": 18000.0,
+    "license_period_months": 12,
+    "start_date": "2024-01-01",
+    "end_date": "2024-12-31",
+    "status": "active",
+    "max_units": 1200,
+    "current_units": 1200,
+    "auto_renewal": true,
+    "contract_details": {
+      "plan": "pro",
+      "features": [
+        "recording",
+        "webinar"
+      ]
+    }
+  },
+  {
+    "id": "jira_001",
+    "name": "Jira Software",
+    "vendor": "Atlassian",
+    "billing_type": "per_user",
+    "cost_per_unit": 7.75,
+    "total_license_cost": 9300.0,
+    "license_period_months": 12,
+    "start_date": "2024-01-01",
+    "end_date": "2024-12-31",
+    "status": "active",
+    "max_units": 1200,
+    "current_units": 400,
+    "auto_renewal": true,
+    "contract_details": {
+      "deployment": "cloud",
+      "add_ons": [
+        "confluence"
+      ]
+    }
+  }
+]
