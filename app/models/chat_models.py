@@ -4,6 +4,7 @@ from datetime import datetime
 from enum import Enum
 
 
+
 class IntentCategory(str, Enum):
     """Categories of user intents"""
     DASHBOARD = "dashboard"

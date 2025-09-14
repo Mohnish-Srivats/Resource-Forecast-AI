@@ -2,9 +2,11 @@ import os
 import json
 from typing import Dict, Any, List, Optional
 from datetime import datetime
+import aiohttp
 from enum import Enum
 
 from ..models.chat_models import ChatMessage, Intent, IntentCategory, IntentAction
+
 
 
 class OpenAIModel(str, Enum):

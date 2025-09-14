@@ -11,6 +11,7 @@ warnings.filterwarnings('ignore')
 from ..models.license_models import SoftwareLicense, UsageMetric, ForecastData, Recommendation
 
 
+
 class LicenseUtilizationAnalyzer:
     """AI Agent for analyzing software license utilization patterns"""
     

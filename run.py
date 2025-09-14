@@ -5,6 +5,7 @@ Adaptive Resource Forecast AI - Main Entry Point
 This script starts the FastAPI application server.
 """
 
+
 import uvicorn
 from app.main import app
 

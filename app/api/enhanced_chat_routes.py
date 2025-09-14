@@ -3,6 +3,7 @@ from fastapi.responses import HTMLResponse
 from typing import List, Optional
 import uuid
 
+
 from ..models.chat_models import ChatRequest, ChatResponse, ChatHistory, ConversationContext
 from ..services.enhanced_conversational_agent import EnhancedConversationalAgent
 from ..services.genai_service import GenAIService

@@ -4,6 +4,7 @@ from datetime import datetime, date
 from enum import Enum
 
 
+
 class BillingType(str, Enum):
     """Types of billing models for software licenses"""
     PER_USER = "per_user"

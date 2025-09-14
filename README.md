@@ -8,6 +8,7 @@ This project is a prototype of an enterprise-grade AI system that was originally
 
 ## ✨ Key Features
 
+
 ### 🤖 AI-Powered Analysis
 - **License Utilization Analysis**: Advanced pattern recognition and anomaly detection
 - **Cost Forecasting**: Machine learning-based predictions for future spending

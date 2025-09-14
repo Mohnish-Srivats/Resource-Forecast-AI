@@ -15,6 +15,7 @@ app = FastAPI(
     redoc_url="/redoc"
 )
 
+
 # Include API routes
 app.include_router(router)
 app.include_router(chat_router)

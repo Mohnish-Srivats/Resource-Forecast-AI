@@ -7,6 +7,7 @@ import random
 from ..models.license_models import SoftwareLicense, UsageMetric, BillingType, LicenseStatus
 
 
+
 class DataManager:
     """Manages data operations for the Adaptive Resource Forecast AI"""
     
