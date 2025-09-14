@@ -4,7 +4,7 @@ An AI-powered software license management and cost optimization platform that he
 
 ## Overview
 
-This project is a prototype of an enterprise-grade AI system that was originally developed at Atlassian for managing software license costs and utilization. The system analyzes historical usage data, predicts future resource needs, and provides intelligent recommendations for license renewals and cost optimization.
+This project is a prototype of an enterprise-grade AI system that was originally developed at internal org for managing software license costs and utilization. The system analyzes historical usage data, predicts future resource needs, and provides intelligent recommendations for license renewals and cost optimization.
 
 ## Key Features
 
