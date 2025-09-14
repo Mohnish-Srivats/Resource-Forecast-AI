@@ -132,6 +132,8 @@ The system comes pre-loaded with sample data including:
 - **Potential Savings**: $2,700 through negotiation
 - **Risk Factors**: Service degradation risk
 
+
+
 ### Scenario 3: Task-Based License
 - **License**: Workato (750,000/1,000,000 tasks = 75% utilization)
 - **Recommendation**: Renew with monitoring
