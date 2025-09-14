@@ -19,7 +19,7 @@ This project is a prototype of an enterprise-grade AI system that was originally
 - **Executive Dashboards**: Real-time insights and cost optimization opportunities
 
 
-## 🏗️ Architecture
+## Architecture
 
 ```
 adaptive-resource-forecast-ai/
